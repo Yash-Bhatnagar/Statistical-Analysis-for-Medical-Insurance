@@ -1,2 +1,7 @@
 # Statistical-Analysis-for-Medical-Insurance
-This repository contains jupyter notebook used to perform statistical analysis and hypothesis testing on data used for medical insurance
+## Used this repository to:
+<ul>
+  <li>Perform basic EDA on the data using python3</li>
+  <li>Identify the type of distribution present in the data columns</li>
+  <li>HYPOTHESIS testing : To justify the insights derived from data</li>
+</ul>
